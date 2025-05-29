@@ -1,0 +1,36 @@
+csv name=building_room_sample_en.csv
+Room Name,Zone Type,Area (m²),Floor,Person in charge,Status,Remarks
+GRAND ARRIVAL COURT,Entrance,120,1,Project Manager,Completed,Main entrance reception area
+ART GALLERY FOYER,Art Gallery,60,1,Art Director,Under Renovation,Flexible exhibition space
+AUTOMATED VALET GARAGE,Garage,200,B1,Facility Supervisor,Under Construction,Mechanical parking system
+GREAT HALL,Public Area,300,1,Project Manager,Completed,Double-height main hall
+CRYSTAL ATRIUM,Atrium,90,1,Landscape Designer,Completed,Skylight
+MUSIC ROOM,Entertainment,65,1,Owner,Completed,Soundproofed
+GUEST SALON,Reception,80,1,Owner,Completed,VIP guest area
+SHOW KITCHEN,Kitchen,45,1,Head Chef,Completed,Open kitchen
+"CHEF'S KITCHEN",Kitchen,55,1,Head Chef,Completed,Back kitchen
+BUTLER'S PANTRY,Service,25,1,Butler,Completed,Storage
+CLIMATE WINE LIBRARY,Cellar,30,B1,Sommelier,Completed,Constant temp/humidity
+SERVICE ELEVATOR,Equipment,10,B1,Facility Supervisor,Completed,Private elevator
+CINEMA SUITE,Entertainment,70,B1,AV Engineer,Completed,Home theater
+SPA SANCTUARY,Wellness,60,1,Health Consultant,Completed,SPA therapy
+MEDITATION GARDEN,Landscape,80,1,Landscape Designer,Completed,Outdoor Zen garden
+INDOOR POOL PAVILION,Pool,150,1,Health Consultant,Completed,Heated pool
+PRINCIPAL SUITE,Master Bedroom,120,2,Owner,Completed,With ensuite
+PRIVATE LOUNGE,Lounge,60,2,Owner,Completed,Private retreat
+HIS SANCTUARY,Bathroom,20,2,Owner,Completed,For him
+HER SANCTUARY,Bathroom,20,2,Owner,Completed,For her
+PERSONAL GYM,Gym,50,2,Personal Trainer,Completed,Customizable
+WARDROBE VAULT,Walk-in Closet,30,2,Owner,Completed,Walk-in
+A.I. COMMAND CENTER,Server Room,18,B1,IT Supervisor,Completed,Main control room
+SMART WALL HUB,Smart Control,10,1,IT Supervisor,Completed,Touch panel
+BIOCLIMATIC CONTROLS,Smart System,10,1,IT Supervisor,Completed,Environment control
+CYBER LOUNGE,Lounge,40,1,Owner,Completed,Digital entertainment
+SKY LOUNGE DECK,Terrace,100,3,Landscape Designer,Completed,Viewing deck
+CANTILEVER POOL,Pool,80,3,Health Consultant,Completed,Overhanging pool
+SUNSET TERRACE,Terrace,65,3,Landscape Designer,Completed,Sunset view
+VERTICAL GARDEN,Greenery,75,3,Landscape Designer,Completed,Vertical garden
+HELIPAD ACCESS,Helipad,120,Roof,Security Supervisor,Completed,Private helipad
+SKY VAULT STORAGE,Storage,60,Roof,Facility Supervisor,Completed,High-altitude storage
+OBSERVATORY,Observatory,50,Roof,Owner,Completed,Astronomical telescope
+---
